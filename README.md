@@ -1,2 +1,29 @@
-# AmanScript
-The first native Right-to-Left (RTL) Arabic programming language compiler.
+# 🛡️ أمان سكربت | AmanScript Native Engine
+
+> **أول لغة برمجة عربية ناتيفة متكاملة عالية الأداء (RTL) تُكتب من اليمين إلى اليسار وتُصدر شفرتها المصدريّة فورياً إلى اللغات العالمية.**
+>
+> **The first native Right-to-Left (RTL) Arabic programming language engine, transpiling directly to JavaScript, Python, C++, and PHP.**
+
+---
+
+## 🌐 الروابط الرسمية (Official Links)
+* 🌐 **الموقع الرسمي والمحاكي المباشر:** [https://amn.gt.tc/](https://amn.gt.tc/)
+* 🚀 **موعد الإطلاق الرسمي المباشر:** 1 سبتمبر 2026 م (September 1, 2026)
+* 💡 **المبتكر والمهندس المصمم:** المهندس عمران عبدالله العمراني (Eng. Imran Al-Omrani) 🇾🇪
+* 📧 **البريد الإلكتروني الرسمي:** bakh16465@gmail.com
+* 𝕏 **حساب المنصة على X:** [@AmanScript](https://x.com/AmanScript)
+
+---
+
+## ⚡ نموذج من شفرة أمان سكربت (Code Example)
+
+```amanscript
+// 1. بناء خادم ويب ناتيف بـ أمان سكربت
+استورد خادم_الويب من "أمان/ويب"؛
+ثابت المطور = "المهندس عمران عبدالله العمراني"؛
+
+دالة بدء_الخادم() {
+    خادم_الويب.استمع(8080، دالة() {
+        اطبع("تم تشغيل محرك أمان سكربت بنجاح عبر " + المطور)؛
+    })؛
+}
